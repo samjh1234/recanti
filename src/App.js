@@ -1,16 +1,15 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import React from 'react';
+import { Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
 import Aggiungi from './components/Aggiungi';
 
-function App() {
+const App = () => {
   return (
-    <Router basename={process.env.PUBLIC_URL}> 
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/aggiungi" element={<Aggiungi />} />
-      </Routes>
-    </Router>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/aggiungi" element={<Aggiungi />} />
+    </Routes>
   );
-}
+};
 
 export default App;
