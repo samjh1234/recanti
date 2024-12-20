@@ -1,0 +1,29 @@
+{
+    "name": "Canti&Lyrics App",
+    "short_name": "Canti",
+    "description": "App to create and archive documents with attachments, with offline support.",
+    "start_url": "%PUBLIC_URL%/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#85C1DC",
+    "icons": [
+      {
+        "src": "%PUBLIC_URL%/photos/favicon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "%PUBLIC_URL%/photos/logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "%PUBLIC_URL%/photos/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "orientation": "portrait",
+    "related_applications": [],
+    "prefer_related_applications": false
+  }
