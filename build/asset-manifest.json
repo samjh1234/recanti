@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/recanti/static/css/main.09acb121.css",
+    "main.js": "/recanti/static/js/main.677e70cd.js",
+    "static/media/backgroundfo.png": "/recanti/static/media/backgroundfo.d4ab85e4f1ab179e86d2.png",
+    "index.html": "/recanti/index.html",
+    "main.09acb121.css.map": "/recanti/static/css/main.09acb121.css.map",
+    "main.677e70cd.js.map": "/recanti/static/js/main.677e70cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09acb121.css",
+    "static/js/main.677e70cd.js"
+  ]
+}
