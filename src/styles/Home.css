@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Inria Serif', serif;
-  background: url('../assets/photos/backgroundfo.png') no-repeat center center;
+  background: url('/photos/backgroundfo.png') no-repeat center center;
   background-size: cover; /* Ensures the image covers the entire container */
   height: 100vh;
   width: 100vw;
