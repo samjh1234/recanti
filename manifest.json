@@ -8,17 +8,17 @@
     "theme_color": "#85C1DC",
     "icons": [
       {
-        "src": "../assets/photos/favicon.png",
+        "src": "/src/assets/photos/favicon.png",
         "type": "image/png",
         "sizes": "512x512"
       },
       {
-        "src": "../assets/photos/logo.png",
+        "src": "/src/assets/photos/logo.png",
         "type": "image/png",
         "sizes": "512x512"
       },
       {
-        "src": "../assets/photos/icon-512x512.png",
+        "src": "/src/assets/photos/icon-512x512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
